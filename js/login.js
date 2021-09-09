@@ -12,7 +12,7 @@ document.getElementById('login-submit').addEventListener('click', function(){
         window.location.href = 'banking.html';
     }
     else{
-        alert('wrong information');
+        alert('wrong information!!please correct information then try it');
     }
    
 });
